@@ -2,6 +2,14 @@
 name = "vanitysol"
 version = "0.1.0"
 edition = "2021"
+authors = ["Sabir Khan <simplysabir@email.com>"]
+license = "MIT OR Apache-2.0"
+description = "solana vanity keypair generator"
+readme = "README.md"
+homepage = "https://github.com/simplysabir/vanitysol"
+repository = "https://github.com/simplysabir/vanitysol"
+keywords = ["cli", "vanity keypair", "solana"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
